@@ -964,7 +964,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 30
-  jump: 10
+  jump: 20
   smooth: 2
   tiltAngle: 360
 --- !u!4 &1421988604
